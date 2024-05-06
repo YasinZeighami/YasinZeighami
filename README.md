@@ -2,7 +2,9 @@ My name is Yasin Zeighami
 -----------------------------
 
 Android Developer with a passion for building innovative mobile apps.
+<br>
 Experienced in Kotlin and Java.
+<br>
 Let's build something amazing together!
 -----------------------------
 
