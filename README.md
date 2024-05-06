@@ -3,9 +3,7 @@ My name is Yasin Zeighami
 
 Android Developer with a passion for building innovative mobile apps.
 Experienced in Kotlin and Java.
-Expertise in Android SDK and UI/UX design.
-Strong problem-solving and teamwork skills.
-Eager to learn and stay updated with the latest Android trends.
+Let's build something amazing together!
 -----------------------------
 
 
