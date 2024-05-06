@@ -1,8 +1,7 @@
 My name is Yasin Zeighami
 -----------------------------
 
-Developer
-
+Android developer passionate about crafting engaging mobile experiences. Let's create amazing apps together!
 -----------------------------
 
 
