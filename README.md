@@ -4,19 +4,15 @@ Android Developer with a passion for building innovative mobile apps.
 <br>
 Experienced in Kotlin and Java.
 <br>
-Let's build something amazing together!
-
+Let's build something amazing together!💚
+<br>
+- 👨🏻‍💻Software Engineer
+- 🔭 I’m currently working on <a href="https://bashgahplus.com/" target="_blank" rel="noreferrer">BashgahPlus</a> application 
 -----------------------------
-🔭 I’m currently working on <a href="https://bashgahplus.com/" target="_blank" rel="noreferrer">BashgahPlus</a> application
 
-                  
 ### Skills
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="26" height="26" alt="Kotlin" /></a>
-    <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="28" height="28" alt="Java" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="30" height="30" alt="Php" /></a>
-
-
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,php,git&theme=dark)](https://skillicons.dev)
+                  
 </p>
                     
 ### Socials
