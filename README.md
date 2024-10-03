@@ -14,7 +14,7 @@ Let's build something amazing together!💚
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,git&theme=dark)](https://skillicons.dev)
                   
 </p>
-           <meta name="google-site-verification" content="Fw12hi3956agtgojNIvMw8GfiuQ-7zM6D4KoG_Ffflk" />         
+      
 ### Socials
                   
 <p align="left">
