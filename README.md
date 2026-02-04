@@ -11,7 +11,7 @@ Let's build something amazing together!💚
 -----------------------------
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ktor,java,androidstudio,git&theme=dark)](https://skillicons.dev)
                   
 </p>
       
